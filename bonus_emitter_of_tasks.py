@@ -1,13 +1,15 @@
 """
-    Amanda Hanway - Streaming Data, Module 4
-    1/28/23
-
+Author: Amanda Hanway 
+Assignment: Bonus - A4: Producer with Multiple Consumers
+Date: 1/29/23
+Purpose: 
     This program sends a message to a queue on the RabbitMQ server.
     Make tasks harder/longer-running by adding dots at the end of the message.
-
-    Author: Denise Case
-    Date: January 15, 2023
+    
+Csv data source: insurance_data.csv
+https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health?resource=download      
 """
+
 
 import pika
 import sys
