@@ -9,7 +9,7 @@
     - then sends the data as a message to two queues on the RabbitMQ server
     - The script incorporates code from v2_emitter_of_tasks.py 
 - Bonus_listening_worker.py
-    - This program continously listens for messages on two queues
+    - This program continuously listens for messages on two queues
     - When a message is received, it transforms the data and writes to an output file
     - The script incorporates code from v2_listening_worker.py 
 - CSV Data Source

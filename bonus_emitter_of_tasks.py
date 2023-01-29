@@ -3,9 +3,8 @@ Author: Amanda Hanway
 Assignment: Bonus - A4: Producer with Multiple Consumers
 Date: 1/29/23
 Purpose: 
-    This program sends a message to a queue on the RabbitMQ server.
-    Make tasks harder/longer-running by adding dots at the end of the message.
-    
+    This program reads two columns of data from a csv file 
+    then sends the data as a message to two queues on the RabbitMQ server    
 Csv data source: insurance_data.csv
 https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health?resource=download      
 """

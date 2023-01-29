@@ -3,9 +3,9 @@ Author: Amanda Hanway
 Assignment: Bonus - A4: Producer with Multiple Consumers
 Date: 1/29/23
 Purpose: 
-    This program listens for work messages contiously. 
-    Start multiple versions to add more workers.
-    
+    This program continuously listens for messages on two queues
+    When a message is received, it transforms the data and writes to an output file 
+       
 Csv data source: insurance_data.csv
 https://www.kaggle.com/datasets/thedevastator/insurance-claim-analysis-demographic-and-health?resource=download      
 """
