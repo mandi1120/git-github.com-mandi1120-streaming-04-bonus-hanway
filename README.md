@@ -24,4 +24,4 @@
 ## Screenshot - Program Running in Multiple Terminals
 - using VS Code (listening) and Command Prompt (emitting)
 
-![Using Multiple Terminals](one_emitter_two_listeners_bonus.png)
+![Using Multiple Terminals](One_emitter_Two_listeners_bonus.png)
