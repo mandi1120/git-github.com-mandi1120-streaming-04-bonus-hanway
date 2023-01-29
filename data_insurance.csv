@@ -1,0 +1,15 @@
+index,PatientID,age,gender,bmi,bloodpressure,diabetic,children,smoker,region,claim
+0,1,39,male,23.2,91,Yes,0,No,southeast,1121.87
+1,2,24,male,30.1,87,No,0,No,southeast,1131.51
+2,3,,male,33.3,82,Yes,0,No,southeast,1135.94
+3,4,,male,33.7,80,No,0,No,northwest,1136.4
+4,5,,male,34.1,100,No,0,No,northwest,1137.01
+5,6,,male,34.4,96,Yes,0,No,northwest,1137.47
+6,7,,male,37.3,86,Yes,0,No,northwest,1141.45
+941,942,52,female,21.7,81,Yes,0,Yes,southwest,13844.51
+942,943,34,female,32.7,110,Yes,0,No,northwest,13844.8
+943,944,35,female,31.8,95,No,0,No,southwest,13880.95
+944,945,57,female,36.3,98,Yes,0,No,southeast,13887.2
+945,946,57,female,36.9,88,Yes,0,No,southeast,13887.97
+946,947,20,male,33.1,99,No,3,No,southeast,13919.82
+947,948,33,male,27.6,109,No,1,No,northeast,13937.67
